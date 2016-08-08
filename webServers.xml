@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c09392a4-6638-4bdf-9ecf-ba7b18673c87" name="dev2.fleek" url="http://dev2.getonfleek.com">
+        <fileTransfer host="dev2.getonfleek.com" port="21" password="dfccdfc6dfcfdfcfdfc1dfc3dfcfdfecdfc6dfcfdfcfdfc1df93df9bdf98" username="fleekdev2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
