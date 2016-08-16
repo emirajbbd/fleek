@@ -21,7 +21,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="180.234.63.103 17027 6666" version="5.6.22" warning="Zend OPcache requires Zend Engine API version 220121212.&#10;The Zend Engine API version 220131226 which is installed, is newer.&#10;Contact Zend Technologies at http://www.zend.com/ for a later version of Zend OPcache.&#10;&#10;">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="180.234.118.130 17099 6666" version="5.6.22" warning="Zend OPcache requires Zend Engine API version 220121212.&#10;The Zend Engine API version 220131226 which is installed, is newer.&#10;Contact Zend Technologies at http://www.zend.com/ for a later version of Zend OPcache.&#10;&#10;">
           <additional_php_ini />
           <configuration_file>/usr/local/lib/php.ini</configuration_file>
           <configuration_options>
